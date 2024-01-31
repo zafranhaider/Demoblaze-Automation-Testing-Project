@@ -1,4 +1,4 @@
-# MUST-CMS-Automation-Testing-Projact
+# DemoBlaze Automation Project
 Automating A Website DemoBlaze 
 I will Automate
 -LOGIN and Registration
