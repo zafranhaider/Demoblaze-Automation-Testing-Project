@@ -11,5 +11,5 @@ def browser():
 password = os.environ.get('c_pas')
 def test_LoginPass_correctdata(browser):
     page = browser.new_page()
-    page.goto("https://cms.must.edu.pk:8082/login.aspx")
+    page.goto("https://www.demoblaze.com/")
    
