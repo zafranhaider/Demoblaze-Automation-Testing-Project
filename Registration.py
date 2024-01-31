@@ -1,4 +1,4 @@
-# test_pytest.py
+# test_pytest
 import pytest
 from playwright.sync_api import sync_playwright
 import os
