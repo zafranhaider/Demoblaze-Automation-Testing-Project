@@ -1,6 +1,12 @@
-# DemoBlaze Automation Project
-Automating A Website DemoBlaze 
-I will Automate
--LOGIN and Registration
--Add to Cart and Checkout
--And Some Other Usefull Stuff
+# DemoBlaze Automation Testing Project
+Testing A Website DemoBlaze With Playwright As My Automation Testing Project
+I Automated the Following Test
+-LOGIN 
+-Registration
+-Add to Cart 
+-Checkout
+-Cross Browser Testing
+-Contact Us
+-API Test
+-Performance Test
+-And Some Other Usefull Test
