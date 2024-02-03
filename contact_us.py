@@ -21,4 +21,3 @@ def test_SendData_success(browser):
     page.get_by_role("button", name="Send message").click()
     title=page.title()
     assert title == "STORE"
-    page.pause()
