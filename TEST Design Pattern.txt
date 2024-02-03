@@ -1,0 +1,4 @@
+I Mostly Used
+-AAA (Arrange,Act,Assert)
+-POM (Page Object Model)
+For The Test Design Pattern
