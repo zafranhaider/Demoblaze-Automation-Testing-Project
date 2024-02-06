@@ -7,6 +7,5 @@ I Automated the Following Test
 -Checkout
 -Cross Browser Testing
 -Contact Us
--API Test
 -Performance Test
 -And Some Other Usefull Test
